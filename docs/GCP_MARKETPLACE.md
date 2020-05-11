@@ -2,20 +2,18 @@
 
 ## Deploying
 
-First off we are going to launch the VM. Simply go to 
-https://console.cloud.google.com/launcher/config/theta-marketplace-public/theta-guardian-node
+First off we are going to launch the VM. Simply go to the following page: 
+https://console.cloud.google.com/launcher/config/theta-marketplace-public/theta-guardian-node. On the dashboard, click on the "Launch" button
 
 ![](./images/gcp_marketplace/1_launcher_landing_page.png)
 
-Click on the "Launch" button
+You can take the default settings or customize them.  When complete click "Deploy"
 
 ![](./images/gcp_marketplace/2_launcher_config.png)
 
-You can take the default settings or customize them.  When complete click "Deploy"
+That's it! Your guardian node is now deploying.
 
 ![](./images/gcp_marketplace/3_deploying.png)
-
-That's it! Your guardian node is now deploying.
 
 ## Stake to the Guardian Node
 
