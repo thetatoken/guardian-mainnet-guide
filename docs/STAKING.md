@@ -26,7 +26,7 @@ Download the Theta Wallet app in the App Store / Play Store, or if already insta
 
 Once your wallet is unlocked, click the “**Stakes**” tab at the bottom of the screen, then click “**Deposit**”.
 
-<a href="url"><img src="./images/mobile_wallet_mainnet.png" align="center" height="50%" width="50%" ></a>
+<a href="url"><img src="./images/mobile_wallet_testnet.png" align="center" height="50%" width="50%" ></a>
 
 In the **Guardian Node Holder (Summary)** field of the Theta Wallet app, click the **QR code icon** and use your device to scan the QR code from your Guardian Node app. If you are running the Theta node through the command line, you can also copy/paste the `summary` directly into this field. 
 
