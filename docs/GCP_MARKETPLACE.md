@@ -39,5 +39,5 @@ thetacli query guardian
 
 ![](./images/gcp_marketplace/6_query_guardian.png)
 
-Now, copy the `"Summary"` field from the return, and we can proceed to [stake to the guardian node](./STAKING.md).
+Now, copy the `"Summary"` field from the return, and we can proceed to [stake to the guardian node](STAKING.md#guardian-staking-process).
 
