@@ -21,7 +21,7 @@ That's it! Your guardian node is now deploying.
 
 Next, we need to stake your THETA to the node to make it a Guardian node. First let us connect to the VM via ssh as highlighted in the image below
 
-![](./images/gcp_marketplace/3_deploying.png)
+![](./images/gcp_marketplace/4_log_onto_the_vm.png)
 
 After you have logged onto the machine, first run the following command to check if the node is synchronized with the network.
 
