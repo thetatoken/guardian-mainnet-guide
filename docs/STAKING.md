@@ -6,7 +6,7 @@ Access the [Theta Web Wallet](https://wallet.thetatoken.org) from your desktop/l
 
 <a href="url"><img src="./images/Theta_wallet_mainnet.png" align="center" height="50%" width="50%" ></a>
 
-Once your wallet is unlocked, click the “**Stakes**” tab of the menu and click “**Deposit Stake**”.
+Once your wallet is unlocked, click the “**Stakes**” tab of the menu and click “**Deposit Stake**”, then click "**Guardian Node**".
 
 <a href="url"><img src="./images/withdraw_stake.png" align="center" ></a>
 
