@@ -2,7 +2,7 @@
 
 ## Staking through Web Wallet
 
-Access the [Theta Web Wallet](https://wallet.thetatoken.org) from your desktop/laptop. Under the “Theta Wallet” logo, you can click the **drop down menu** to select a network. Change the selected network to “**Mainnet**: THETA mainnet for Guardian Nodes”, then unlock your Theta wallet using your typical access method (keystore, seed phrase, hardware wallet, etc.). 
+Access the [Theta Web Wallet](https://wallet.thetatoken.org) from your desktop/laptop. Under the “Theta Wallet” logo, make sure “**Mainnet**: THETA mainnet (Default)” is selected, then unlock your Theta wallet using your typical access method (keystore, seed phrase, hardware wallet, etc.). 
 
 <a href="url"><img src="./images/Theta_wallet_testnet_amber.png" align="center" height="50%" width="50%" ></a>
 
