@@ -2,7 +2,7 @@
 
 ## Download the installation file
 
-Please download the latest installation file from here for [Windows](https://api.thetatoken.org/downloads/guardian-node/windows), [macOS](https://api.thetatoken.org/downloads/guardian-node/macos) (only supports 10.15.x catalina), or [Ubuntu Linux](https://api.thetatoken.org/downloads/guardian-node/linux). If you would like you run the node from VirtualBox on Windows, please follow the steps [here](./VIRTUAL_BOX.md#running-a-guardian-node-through-virtualbox-on-windows). If you prefer to run your guardian node on Mac or Linux from the command line, please follow the instructions [here](./CLI.md#running-a-guardian-node-through-command-line). 
+Please download the latest installation file from here for [Windows](https://api.thetatoken.org/downloads/guardian-node/windows), [macOS](https://api.thetatoken.org/downloads/guardian-node/macos) (only supports 10.15.x catalina), or [Ubuntu Linux](https://api.thetatoken.org/downloads/guardian-node/linux). If you prefer to run your guardian node on Mac or Linux from the command line, please follow the instructions [here](./CLI.md#running-a-guardian-node-through-command-line). 
 
 ## Install and launch the Guardian node
 
