@@ -6,8 +6,8 @@ Please follow the instructions below to download the lastest **Linux** binary an
 
 ```
 screen -S theta_mainnet # if you run the node on a Linux server
-mkdir ~/theta
-cd ~/theta
+mkdir ~/theta_mainnet
+cd ~/theta_mainnet
 mkdir bin
 mkdir -p guardian_mainnet/node
 curl -k --output bin/theta `curl -k 'https://mainnet-data.thetatoken.org/binary?os=linux&name=theta'`
@@ -16,7 +16,7 @@ wget -O guardian_mainnet/node/snapshot `curl -k https://mainnet-data.thetatoken.
 curl -k --output guardian_mainnet/node/config.yaml `curl -k 'https://mainnet-data.thetatoken.org/config?is_guardian=true'`
 chmod +x bin/theta
 chmod +x bin/thetacli
-export PATH=$PATH:~/theta/bin
+export PATH=$PATH:~/theta_mainnet/bin
 cd bin/
 ```
 
@@ -35,7 +35,7 @@ theta start --config=../guardian_mainnet/node
 It might take some time for the node to sync up with the network (typically should be less than 10 minutes). To check if the node is already in-sync with the network, you can execute the following command in **another console**:
 
 ```
-export PATH=$PATH:~/theta/bin
+export PATH=$PATH:~/theta_mainnet/bin
 thetacli query status
 ```
 
