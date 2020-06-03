@@ -10,7 +10,7 @@ When you run the Guardian Node app for the first time you'll see a welcome scree
 
 <a href="url"><img src="./images/GN_welcome.png" align="center" height="50%" width="50%" ></a>
 
-Click "**Continue**", then create your GN password and click "**Create Node**". You may see a Windows message asking you to allow access for the Theta app; click "**Allow access**" to continue. 
+Click "**Continue**", then create your GN password and click "**Create Node**". You may see a Windows message asking you to allow access for the Theta app; click "**Allow access**" to continue. You can also choose which folder you want to the Guardian Node to save data to.
 
 Allow your Guardian Node to sync to the Theta blockchain. This first time can take some time as you process all the blocks since the latest snapshot available (typically should be less than 10 minutes). 
 
