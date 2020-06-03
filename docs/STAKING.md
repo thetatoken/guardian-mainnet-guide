@@ -2,7 +2,7 @@
 
 ## Staking through Web Wallet
 
-Access the [Theta Web Wallet](https://wallet.thetatoken.org) from your desktop/laptop. Under the “Theta Wallet” logo, make sure “**Mainnet**: THETA mainnet (Default)” is selected, then unlock your Theta wallet using your typical access method (keystore, seed phrase, hardware wallet, etc.). **NOTE: The updated iOS/Android Theta Wallet versions have been submitted to the App Store/Play Store, but may take a few hours to be approved. Please wait until the latest wallets versios are available to stake from iOS/Android Theta Wallet.** 
+Access the [Theta Web Wallet](https://wallet.thetatoken.org) from your desktop/laptop. Under the “Theta Wallet” logo, make sure “**Mainnet**: THETA mainnet (Default)” is selected, then unlock your Theta wallet using your typical access method (keystore, seed phrase, hardware wallet, etc.). 
 
 <a href="url"><img src="./images/Theta_wallet_mainnet.png" align="center" height="50%" width="50%" ></a>
 
@@ -19,6 +19,8 @@ After reviewing your stake deposit info on the next screen, enter your wallet pa
 **Important**: If you stake from a Nano Ledger wallet, you'd need to navigate to the Ethereum app, and make sure that in the settings, "Contract data Allowed" and "Debug data NOT Displayed" are selected.
 
 ## Staking through Mobile Wallet
+
+**NOTE: The updated iOS/Android Theta Wallet versions have been submitted to the App Store/Play Store, but may take a few hours to be approved. Please wait until the latest wallets version v2.3 is available to stake from iOS/Android Theta Wallet.** 
 
 Download the Theta Wallet app in the App Store / Play Store, or if already installed make sure  you have upgraded to version 2.0.0 (iOS) / 2.0.0 (Android). Under the “Theta Wallet” logo, you can click the **drop down menu** to select a network. Make sure “**Mainnet**: THETA mainnet (Default)” is selected. If the drop down menu is not clickable, please kill and restart the app.
 
