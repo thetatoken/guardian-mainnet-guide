@@ -2,7 +2,7 @@
 
 ## Staking through Web Wallet
 
-Access the [Theta Web Wallet](https://wallet.thetatoken.org) from your desktop/laptop. Under the “Theta Wallet” logo, make sure “**Mainnet**: THETA mainnet (Default)” is selected, then unlock your Theta wallet using your typical access method (keystore, seed phrase, hardware wallet, etc.). 
+Access the [Theta Web Wallet](https://wallet.thetatoken.org) from your desktop/laptop. Under the “Theta Wallet” logo, make sure “**Mainnet**: THETA mainnet (Default)” is selected, then unlock your Theta wallet using your typical access method (keystore, seed phrase, hardware wallet, etc.). **NOTE: The updated iOS/Android Theta Wallet versions have been submitted to the App Store/Play Store, but may take a few hours to be approved. Please wait until the latest wallets versios are available to stake from iOS/Android Theta Wallet.** 
 
 <a href="url"><img src="./images/Theta_wallet_mainnet.png" align="center" height="50%" width="50%" ></a>
 
