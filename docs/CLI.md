@@ -34,8 +34,7 @@ Now launch the Theta with the following commands.
 It might take some time for the node to sync up with the network (typically should be less than 10 minutes). To check if the node is already in-sync with the network, you can execute the following command in **another console**:
 
 ```
-export PATH=$PATH:~/theta_mainnet/bin
-thetacli query status
+./thetacli query status
 ```
 
 The `syncing` field in the return indicates whether the node is still in the synchronization mode. If it is `false`, it means the node is already synced to the lastest block.
