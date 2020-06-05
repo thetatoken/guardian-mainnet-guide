@@ -16,7 +16,7 @@ sudo tar -C /usr/local -xzf go1.12.1.linux-amd64.tar.gz
 echo 'export GOROOT=/usr/local/go' >> ~/.bashrc
 echo 'export GOPATH=$HOME/go' >> ~/.bashrc
 echo 'export PATH=$PATH:$GOROOT/bin:$GOPATH/bin' >> ~/.bashrc
-echo 'export THETA_HOME=$GOPATH/src/github.com/thetatoken/theta'
+echo 'export THETA_HOME=$GOPATH/src/github.com/thetatoken/theta' >> ~/.bashrc
 source ~/.bashrc
 ```
 
