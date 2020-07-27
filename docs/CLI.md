@@ -19,7 +19,7 @@ chmod +x bin/thetacli
 cd bin/
 ```
 
-The steps to install the binary on **macOS** and **Windows** are similar (on Windows you can use Cygwin, but make sure `curl` is installed). The only difference is that the `os` parameter for downloading the macOS and Windows binary are `macos` and `windows`, respectively.
+The steps to install the binary on **macOS** (only supports 10.15.x catalina) and **Windows** are similar (on Windows you can use Cygwin, but make sure `curl` is installed). The only difference is that the `os` parameter for downloading the macOS and Windows binary are `macos` and `windows`, respectively.
 
 ## Launch the guardian node
 
