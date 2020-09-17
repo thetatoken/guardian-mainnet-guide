@@ -10,7 +10,7 @@ Once your wallet is unlocked, click the “**Stakes**” tab of the menu and cli
 
 <a href="url"><img src="./images/withdraw_stake.png" align="center" ></a>
 
-In the **Guardian Node Holder (Summary)** field, enter the text string from your Guardian Node app. Enter the Amount of THETA you want to stake to this node and click “**Deposit Stake**". Note that you need to stake **at least 10,000 THETA**.
+In the **Guardian Node Holder (Summary)** field, enter the text string from your Guardian Node app. Enter the Amount of THETA you want to stake to this node and click “**Deposit Stake**". Note that you need to stake **at least 10,000 THETA**. Also, make sure you have at least 1 TFUEL in your wallet to pay for the transaction fee.
 
 <a href="url"><img src="./images/wallet_deposit_stake.png" align="center" ></a>
 
