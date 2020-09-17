@@ -34,7 +34,7 @@ In the **Guardian Node Holder (Summary)** field of the Theta Wallet app, click t
 
 <a href="url"><img src="./images/mobile_wallet_deposit.png" align="center" height="50%" width="50%" ></a>
 
-Then in the Wallet app enter the amount of THETA you want to stake to your Guardian Node and click “**Next**". Note that you need to stake **at least 10,000 THETA**.
+Then in the Wallet app enter the amount of THETA you want to stake to your Guardian Node and click “**Next**". Note that you need to stake **at least 10,000 THETA**. Also, make sure you have at least 1 TFUEL in your wallet to pay for the transaction fee.
 
 <a href="url"><img src="./images/mobile_wallet_deposit2.png" align="center" height="50%" width="50%" ></a>
 
