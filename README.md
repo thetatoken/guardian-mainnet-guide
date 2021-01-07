@@ -1,6 +1,6 @@
 # Theta Guardian Mainnet Guide
 
-This guide provides the instructions to launch and stake to a guardian node for the Theta Mainnet.
+This guide provides the instructions to launch and stake to a guardian node for the Theta Mainnet. To learn more about the Theta Network, please visit the Theta documentation site: https://docs.thetatoken.org/
 
 - **GUI**: Please click [here](./docs/GUI.md#running-a-guardian-node-through-graphical-user-interface) if you want to run your guardian node through the graphical user interface
 
