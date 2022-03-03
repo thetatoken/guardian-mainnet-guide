@@ -2,7 +2,9 @@
 
 ## Install the guardian node
 
-Please follow the instructions below to download the lastest **Linux** binary and the necessary data. If you prefer to compile from the source code, please follow the steps [here](./COMPILE.md#install-guardian-node-from-source-code). If you are running the node on a Linux server, you'd need to run the node in a **screen or tmux** session, so that after you've logged off, the Theta node can continue to run.
+Please follow the instructions below to download the lastest **Linux** binary and the necessary data. If you prefer to compile from the source code, please follow the steps [here](./COMPILE.md#install-guardian-node-from-source-code). If you are using an ARM64-based device, please follow the steps [here](./COMPILE_ARM64.md#install-guardian-node-from-source-code).
+
+If you are running the node on a Linux server, you'd need to run the node in a **screen or tmux** session, so that after you've logged off, the Theta node can continue to run.
 
 ```
 screen -S theta_mainnet # if you run the node on a Linux server
