@@ -64,7 +64,7 @@ The `summary` part is the "fingerprint" we need for staking. Next, [please follo
 If everything works out, this node will start to send out guardian votes for the checkpoint blocks (i.e. the blocks whose `height%100 == 1`). In a few minutes we should start to see guardian votes in the log.
 
 ```
-[2019-10-10 10:01:46] DEBUG [guardian] Boardcasting guardian vote vote=AggregatedVotes{Block: 0xab2a360ed292a14bb675837d1b1fe26de87414bdd8b9838d8d3646ca2c004844, Gcp: 0xd717f1d2bbdf0d8314341afcb30dc0d7d5419914c59754158cfa7a830c9d4c74,  Multiplies: [1, 3, 0, ...., 1, 2]}
+[2019-10-10 10:01:46] DEBUG [guardian] Broadcasting guardian vote vote=AggregatedVotes{Block: 0xab2a360ed292a14bb675837d1b1fe26de87414bdd8b9838d8d3646ca2c004844, Gcp: 0xd717f1d2bbdf0d8314341afcb30dc0d7d5419914c59754158cfa7a830c9d4c74,  Multiplies: [1, 3, 0, ...., 1, 2]}
 ```
 
 Cheers! Now you should expect to receive your first TFUEL reward at the next checkpoint block!!!
